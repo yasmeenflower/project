@@ -1,0 +1,92 @@
+
+
+body{
+
+    background-color:d5d0b9;
+}
+
+
+                                                                      /*class style*/
+.input[type=text]{width:100px; -webkit-transition:width0.4s ease-in-out;
+transition:width 0.4s ease-in-out;}
+
+.image{border:5px #ced5d5 solid;}
+.header{background-color:cdccc6;}
+
+.vsion{font-weight:bold ;padding-right: 20px;padding-left: 20px;}
+
+.language{ margin-left:10px;}
+.form{ clear:both;padding-top: 20px; float : left;}
+.form{font-size:18px;margin:10px;}
+.side-bar{float :left;padding-right: 20px;margin-bottom:30px;}    
+.side-bar2{float :left;padding-right: 20px;margin-bottom:30px;}  
+.side-bar3{float :left;margin-bottom:30px;}    
+.we{padding-left: 150px; background-color: 5f816b;} 
+
+             
+
+
+                                                                       /*Id style*/
+
+
+ 
+
+
+#outer {width:960px; margin:0px auto; background-color: dfece4;}
+
+#wrapper{width: 900px; margin: 0px auto; }
+
+
+#logo  { float : left; margin: 10px 10px 0px 14px;}
+
+
+
+
+
+
+
+
+#navigation  ul { border-bottom:1px #000 solid; border-top:1px #000 solid;padding: 50px 0px; }
+#navigation  ul li { display:inline; }
+#navigation  ul li a { padding: 50px 20px;font-size:18px;}
+
+
+#banner { margin-top:0px;}
+
+
+
+#welcom {float:left;width:600px;padding-top:20px;padding-botom:20px;margin-bottom:40px; }
+#vision {float:right;width:300px;padding-top:20px;padding-botom:20px;margin-bottom:40px; }
+
+
+#social { float:center;clear: both; }
+#social  {margin-top:20px;margin-left:250px; }
+#social  li {display: inline; padding:20 20;}
+
+#language{float:left;width:300px;padding-top:20px;padding-botom:20px;}
+
+#human   {float:left;width:300px;padding-left:30px;padding-top:20px;padding-botom:20px;}
+
+#handwork{float:left;width:300px;padding-left:30px;padding-top:20px;padding-botom:20px;}
+
+#future{float:left;width:300px;padding-top:20px;padding-botom:20px;margin-bottom: 50px;}
+
+#sugg{float:left;width:300px;padding-left:30px;padding-top:20px;padding-botom:20px; margin-bottom: 50px;}
+
+#IT{float:left;width:300px;padding-left:30px;padding-top:20px;padding-botom:20px; margin-bottom: 50px;}
+
+
+
+
+
+
+
+
+
+
+                                                                   /*tag style*/
+
+h1{color:black;font-size:18px; }
+h2,h3{color:black;font-size:15px;}
+
+
